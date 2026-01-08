@@ -18,7 +18,7 @@ The project serves as a showcase for advanced Object-Oriented Programming and so
 * **Observer Pattern:** Implements a push-notification system where Brokers are automatically notified of inventory changes (e.g., property removal).
 * **Factory Method:** Centralizes object creation logic for various apartment types and user roles.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Java JDK 17 or higher.
